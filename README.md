@@ -101,11 +101,10 @@ The project includes:
 
 ## Project Files
 
-- `seasonal_agriculture_performance_dataset.csv` — Dataset used for analysis
-- `Seasonal_Agriculture_Performance_Data_Analytics.ipynb` — Complete analysis notebook
-- `Major Project_Seasonal Agriculture Performance Analysis.pdf` — Project document
-- `VOIS_Major_Project_PPT_Submission_Template.pptx` — Presentation template
-
+- [Dataset](seasonal_agriculture_performance_dataset.csv) — Dataset used for analysis
+- [Analysis Notebook](Seasonal_Agriculture_Performance_Analysis.ipynb) — Complete analysis notebook
+- [Project Document](Major%20Project_Seasonal%20Agriculture%20Performance%20Analysis.pdf) — Project document
+- [Project Presentation](VOIS_Major_Project_PPT_Submission_Template.pptx) — Presentation template
 ## Conclusion
 
 The analysis provides a comparative view of agricultural performance across seasons, crops, states, and farming practices. The findings highlight differences in yield, profitability, and water efficiency and demonstrate how data analysis and visualization can support evidence-based agricultural planning.
